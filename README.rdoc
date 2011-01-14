@@ -1,0 +1,4 @@
+Preview
+=======
+
+Make an ActiveRecord object previewable, and display the preview using existing/custom templates
